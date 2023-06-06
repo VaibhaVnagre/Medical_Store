@@ -1,0 +1,8 @@
+.input {
+    white-space: 10px;
+    justify-content: space-between
+}
+.label {
+    text-decoration-color: blue;
+    justify-content: space-between
+}
